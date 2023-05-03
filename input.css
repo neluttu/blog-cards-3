@@ -4,7 +4,7 @@
 
 @layer utilities {
     .box {
-        transition: all .3s ease;
+
         cursor: pointer;
     }
     .box:hover img {

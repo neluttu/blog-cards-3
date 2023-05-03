@@ -974,7 +974,6 @@ video {
 }
 
 .box {
-  transition: all .3s ease;
   cursor: pointer;
 }
 
